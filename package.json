@@ -1,5 +1,5 @@
 {
-  "name": "ai-permission",
+  "name": "@lxgicstudios/ai-permission",
   "version": "1.0.0",
   "description": "Generate RBAC permission configs from your routes using AI",
   "main": "dist/index.js",
