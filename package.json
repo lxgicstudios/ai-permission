@@ -39,7 +39,10 @@
     "chmod",
     "file-security",
     "acl",
-    "site-architecture"
+    "site-architecture",
+    "technical-seo",
+    "seo-audit",
+    "page-speed"
   ],
   "license": "MIT",
   "main": "dist/index.js",
