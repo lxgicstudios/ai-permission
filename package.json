@@ -8,7 +8,7 @@
     "ai-permission": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-permission/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,7 +32,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-permission",
+  "homepage": "https://github.com/LXGIC-Studios/ai-permission",
   "keywords": [
     "permissions",
     "access-control",
@@ -42,7 +42,19 @@
     "site-architecture",
     "technical-seo",
     "seo-audit",
-    "page-speed"
+    "page-speed",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -53,8 +65,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-permission"
+    "url": "git+https://github.com/LXGIC-Studios/ai-permission.git"
   },
   "scripts": {
     "build": "tsc"
